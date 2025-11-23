@@ -162,14 +162,8 @@ If you encounter any issues or have feature requests, please open an issue in th
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
-
-Project Link: [https://github.com/your-username/hosthive](https://github.com/your-username/hosthive)
-
----
 
 <div align="center">
-  <p>Made with ❤️ by Your Name</p>
+  <p>Made with ❤️ by Om Patil</p>
 </div>
